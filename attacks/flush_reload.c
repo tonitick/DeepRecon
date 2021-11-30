@@ -161,7 +161,7 @@ int main(int ac, char **av) {
    * - Location of the library (.so) file
    * - Location to store the output
    */
-  char *libfile = "/home/sweety/venv2/lib/"
+  char *libfile = "/home/syssec/proj/venv/py2tf/lib/"
                   "python2.7/site-packages/tensorflow/"
                   "python/_pywrap_tensorflow_internal.so";
   char *outdir = av[1];
